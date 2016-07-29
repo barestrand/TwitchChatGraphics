@@ -14,7 +14,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
   http://www.twitchapps.com/tmi/  
 
 ###2. Decide what channel to follow and put suitable values in the settings file accompanying the program:  
-     __Example settings:__  
+     ####Example settings:  
      ip-->irc.twitch.tv  
      port-->6667  
      channelname-->officialgetright  
@@ -24,7 +24,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 ###3. Start up program and enjoy
 
 ###4. Aids filters!  
-     __Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):__  
+     ####Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):  
      OR(haha,ahah)-->hahah  
      AND(trump,wall)-->\_\_TRUMP WALL\_\_  
      AND(rip,skins)-->rip skins  
