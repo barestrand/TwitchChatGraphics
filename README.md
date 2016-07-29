@@ -1,7 +1,7 @@
 #TwitchChatGraphics
 ##Transparent overlay application, graphically illustrating word occurrence in a twitch IRC chat.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/barestrand/TwitchChatGraphics/blob/master/pansy.PNG "Showcase 1")
 
 
 Windows 7+ compatible, 100+Mb RAM req, runs on .net framework
