@@ -40,3 +40,5 @@ EXCEPTIONS are applied to single words delimited by spaces in chat and can be us
 File formats are pretty self explanatory in general for settings, emotes, preambles and exceptions.  
 These files can be altered to your own liking to improve your own experience.  
 Note: Picture format has to be 32 bit PNG for best compatibility.  
+
+#####Keywords: Twitch, Chat, Graphics, Tournament, Reactions
