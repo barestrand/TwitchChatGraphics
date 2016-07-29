@@ -28,7 +28,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 ####Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):
 
 	OR(haha,ahah)-->hahah  
-	AND(trump,wall)-->\_\_TRUMP WALL\_\_  
+	AND(trump,wall)-->__TRUMP WALL__  
 	AND(rip,skins)-->rip skins  
 	SUPRESS(twat)  
 
