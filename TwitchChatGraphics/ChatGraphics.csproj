@@ -132,9 +132,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="broc.ico" />
-    <Content Include="README.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="res\4head.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
