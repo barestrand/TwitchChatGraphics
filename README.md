@@ -10,10 +10,12 @@ Windows 7+ compatible, 100+Mb RAM req, runs on .net framework
 NOTE: Program is in early development stage so all feedback and ideas are welcome
 
 ##How to use:
-###1. Get your personal IRC login info(username, oauth:password) from Twitch at  
+###1. Get the latest release build of the application [here](https://github.com/barestrand/TwitchChatGraphics/releases)
+
+###2. Get your personal IRC login info(username, oauth:password) from Twitch at  
 http://www.twitchapps.com/tmi/  
 
-###2. Decide what channel to follow and put suitable values in the settings file accompanying the program:  
+###3. Decide what channel to follow and put suitable values in the settings file accompanying the program:  
 ####Example settings:
 
 	ip-->irc.twitch.tv  
@@ -22,9 +24,9 @@ http://www.twitchapps.com/tmi/
 	username-->derpmaster1337  
 	oauth_password-->oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 
-###3. Start up program and enjoy
+###4. Start up program and enjoy
 
-###4. AIDS filters!  
+###5. AIDS filters!  
 ####Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):
 
 	OR(haha,ahah)-->hahah  
@@ -36,7 +38,7 @@ http://www.twitchapps.com/tmi/
 Order of application: SUPRESS > OR > AND > exceptions  
 EXCEPTIONS are applied to single words delimited by spaces in chat and can be used as a filter for unwanted common words.
 
-###5. (Optional) Customize!  
+###6. (Optional) Customize!  
 File formats are pretty self explanatory in general for settings, emotes, preambles and exceptions.  
 These files can be altered to your own liking to improve your own experience.  
 Note: Picture format has to be 32 bit PNG for best compatibility.  
