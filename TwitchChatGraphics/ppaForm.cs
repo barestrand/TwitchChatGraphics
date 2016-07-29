@@ -12,7 +12,7 @@ namespace ChatGraphics
 {
     class ppaForm : Form
     {
-        private Thread drawer;
+        private Thread drawCaller;
 
         public ppaForm()
         {
@@ -24,9 +24,9 @@ namespace ChatGraphics
 
             SetBitmap(new Bitmap(Program.getPath("res/background.png")));
 
-            drawer = new Thread(new ThreadStart(TwitchdataThread));
-            drawer.SetApartmentState(ApartmentState.STA);
-            drawer.Start();
+            drawCaller = new Thread(new ThreadStart(TwitchdataThread));
+            drawCaller.SetApartmentState(ApartmentState.STA);
+            drawCaller.Start();
 
             #region BackgroundworkerExample
             /*
