@@ -1,7 +1,7 @@
 #TwitchChatGraphics
 ##Transparent overlay application, graphically illustrating word occurrence in any Twitch channel chat.
 
-Perfect for watching tournament streams on fullscreen without need for chat window open to get a feel for the chat reactions!
+Perfect for watching tournament streams on fullscreen without need for chat window open, get a feel for the chat reactions!
 
 ![alt text](https://github.com/barestrand/TwitchChatGraphics/blob/master/pansy.PNG "Showcase 1")
 
