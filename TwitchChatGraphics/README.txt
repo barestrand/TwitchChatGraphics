@@ -1,4 +1,3 @@
-Copyright 2016, Henrik Barestrand, All rights reserved.
 Windows 7+ compatible, 100+Mb RAM req, runs on .net framework
 
 NOTE: Program is in early development stage so all feedback and ideas are welcome
