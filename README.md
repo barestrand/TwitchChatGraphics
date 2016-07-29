@@ -22,7 +22,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 4. Aids filters!  
      __Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):__  
      OR(haha,ahah)-->hahah  
-     AND(trump,wall)-->__TRUMP WALL__  
+     AND(trump,wall)-->\_\_TRUMP WALL\_\_  
      AND(rip,skins)-->rip skins  
      SUPRESS(twat)  
 
