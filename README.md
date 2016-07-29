@@ -9,6 +9,7 @@ How to use:
 
 1. Get your personal login info from Twitch at this link:
 http://www.twitchapps.com/tmi/
+
 You need: username, oauth:password
 
 2. Decide what channel to follow and put suitable values in the settings file accompanying the program:
@@ -16,23 +17,36 @@ You need: username, oauth:password
 - Personal channel: (eg. officialgetright)
 
 ___Example settings___
+
 ip-->irc.twitch.tv
+
 port-->6667
+
 channelname-->officialgetright
+
 username-->derpmaster1337
+
 oauth_password-->oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 - Event channel: (eg. esl_csgo)
 
 Event IP's found at: http://tmi.twitch.tv/servers?channel=esl_csgo
+
 Usually first or second IP shown will work
+
 Port usually works with 6667
 
+
 ___Example settings___
+
 ip-->192.16.64.214
+
 port-->6667
+
 channelname-->esl_csgo
+
 username-->derpmaster1337
+
 oauth_password-->oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 3. Start up program and enjoy
@@ -55,6 +69,7 @@ OR(haha,ahah)-->hahah
 AND(trump,wall)-->_____TRUMP WALL_____
 
 AND(rip,skins)-->rip skins
+
 SUPRESS(twat)
 
 EXCEPTIONS are applied to single words delimited by spaces in chat and can be used as a filter for unwanted common words.
