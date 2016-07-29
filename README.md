@@ -32,9 +32,9 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
      AND(rip,skins)-->rip skins  
      SUPRESS(twat)  
 
-     (SUPRESS,AND) keywords are applied to entire messages.
-     Order of application: SUPRESS > OR > AND > exceptions
-     EXCEPTIONS are applied to single words delimited by spaces in chat and can be used as a filter for unwanted common words.
+	(SUPRESS,AND) keywords are applied to entire messages.
+	Order of application: SUPRESS > OR > AND > exceptions
+	EXCEPTIONS are applied to single words delimited by spaces in chat and can be used as a filter for unwanted common words.
 
 ###5. (Optional) Customize!  
      File formats are pretty self explanatory in general for settings, emotes, preambles and exceptions.
