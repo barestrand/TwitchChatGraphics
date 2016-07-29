@@ -7,8 +7,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 
 How to use:
 
-1. Get your personal login info from Twitch at this link:
-http://www.twitchapps.com/tmi/
+1. Get your personal login info from Twitch at this link:http://www.twitchapps.com/tmi/
 
 You need: username, oauth:password
 
