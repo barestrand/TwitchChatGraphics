@@ -1,4 +1,4 @@
-# TwitchChatGraphics
+#TwitchChatGraphics
 ##Transparent overlay application, graphically illustrating word occurrence in a twitch IRC chat.
 
 Windows 7+ compatible, 100+Mb RAM req, runs on .net framework
@@ -7,7 +7,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 
 ##How to use:
 1. Get your personal login info(username, oauth:password) from Twitch at 
-   http://www.twitchapps.com/tmi/
+   [http://www.twitchapps.com/tmi/]
 
 2. Decide what channel to follow and put suitable values in the settings file accompanying the program:
 
