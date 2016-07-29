@@ -15,7 +15,7 @@ namespace ChatGraphics
         [STAThread]
         public static void Main()
         {
-            // TestForm will containt the per-pixel-alpha
+            // TestForm will containt the per-pixel-alpha stuff
             ppaForm form = new ppaForm();
             form.FormClosing += form_Closing;
             Application.Run(form);
