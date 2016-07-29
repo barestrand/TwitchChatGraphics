@@ -10,8 +10,7 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
    http://www.twitchapps.com/tmi/
 
 2. Decide what channel to follow and put suitable values in the settings file accompanying the program:
-   - Personal channel: (eg. officialgetright)
-   - 
+
 ___Example settings___
 
 ip-->irc.twitch.tv
