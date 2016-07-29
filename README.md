@@ -51,7 +51,9 @@ Order of how stuff is applied to message: SUPRESS - OR - AND - exceptions
 Examples of current implementations(OR,AND,SUPRESS):
 
 OR(haha,ahah)-->hahah
+
 AND(trump,wall)-->_____TRUMP WALL_____
+
 AND(rip,skins)-->rip skins
 SUPRESS(twat)
 
