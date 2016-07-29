@@ -7,24 +7,19 @@ NOTE: Program is in early development stage so all feedback and ideas are welcom
 
 How to use:
 
-1. Get your personal login info from Twitch at this link:http://www.twitchapps.com/tmi/
-
-You need: username, oauth:password
+1. Get your personal login info from Twitch at this link:
+   http://www.twitchapps.com/tmi/
+   You need: username, oauth:password
 
 2. Decide what channel to follow and put suitable values in the settings file accompanying the program:
-
-- Personal channel: (eg. officialgetright)
+   - Personal channel: (eg. officialgetright)
 
 ___Example settings___
 
 ip-->irc.twitch.tv
-
 port-->6667
-
 channelname-->officialgetright
-
 username-->derpmaster1337
-
 oauth_password-->oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 - Event channel: (eg. esl_csgo)
