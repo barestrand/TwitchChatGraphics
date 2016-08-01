@@ -27,7 +27,7 @@ http://www.twitchapps.com/tmi/
 ###4. Start up program and enjoy
 
 ###5. AIDS filters!  
-####Examples of current implementations inside preambles.csv(OR,AND,SUPRESS):
+####Examples of current implementations inside preambles.csv:
 
 	OR(haha,ahah)-->hahah  
 	AND(trump,wall)-->__TRUMP WALL__  
