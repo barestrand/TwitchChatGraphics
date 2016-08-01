@@ -23,7 +23,7 @@ namespace ChatGraphics
 
         private static void form_Closing(object sender, EventArgs e)
         {
-            Environment.Exit(0);
+            Environment.Exit(0); // finish form
         }
     }
 }
