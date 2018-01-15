@@ -3,8 +3,6 @@
 
 Perfect for watching tournament streams on fullscreen without need for chat window open, get a feel for the chat reactions!
 
-![alt text](https://github.com/barestrand/TwitchChatGraphics/blob/master/pansy.PNG "Showcase 1")
-
 Windows 7+ compatible, 100+Mb RAM req, runs on .net framework
 
 NOTE: Program is in early development stage so all feedback and ideas are welcome
